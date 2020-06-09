@@ -1,0 +1,11 @@
+.container{
+    border-bottom-color: antiquewhite;
+    border-bottom-left-radius: 5px;
+}
+.alter_buttons{
+    float: right;
+}
+.blog_data{
+    margin-left: 10px;
+    font-size: 25px;
+}
